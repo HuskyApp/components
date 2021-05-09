@@ -1,3 +1,3 @@
-# husky-components
+# @husky/components
 
 React components used by HuskyApp.
