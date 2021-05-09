@@ -1,0 +1,14 @@
+{
+    "name": "husky-components",
+    "version": "1.0.0",
+    "description": "React components used by the Husky password manager.",
+    "main": "src/index.ts",
+    "repository": "https://github.com/HuskyApp/husky-components",
+    "author": "SkyezerFox",
+    "license": "GPLv3",
+    "private": false,
+    "dependencies": {
+        "react": "^17.0.2",
+        "styled-components": "^5.2.3"
+    }
+}
